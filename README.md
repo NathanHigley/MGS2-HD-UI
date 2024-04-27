@@ -1,7 +1,7 @@
 # Metal Gear Solid 2 - HD Collection High Quality Font & HUD Port
 This is a PCSX2 texture pack for Metal Gear Solid 2: Substance (SLUS-20554).
 This pack ports most interface and menu-related assets from the Bluepoint remaster of Metal Gear Solid 2 to a format usable with PCSX2.
-
+### For best appearance, use Internal Resolution 2x (720p)
 ----------------
 
 This pack does NOT touch the world, character, or FX textures, for a variety of reasons:
